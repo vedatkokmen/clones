@@ -1,10 +1,11 @@
 import React from "react";
-import InstaStory from "./components/InstaStory";
+import InstaLogin from "./components/InstaLogin";
+//import InstaStory from "./components/InstaStory";
 
 const App = () => {
   return (
     <>
-      <InstaStory />
+      <InstaLogin />
     </>
   );
 };
